@@ -26,7 +26,9 @@ export type EmployeeName =
   | 'Sandhiya sivakumar'
   | 'Sakthivel'
   | 'Salini'
-  | 'Anushree';
+  | 'Anushree'
+  | 'Nithya'
+  | 'Deepika';
 
 export const ORDERED_EMPLOYEES: EmployeeName[] = [
   'Gopalan',
@@ -35,5 +37,7 @@ export const ORDERED_EMPLOYEES: EmployeeName[] = [
   'Sandhiya sivakumar',
   'Sakthivel',
   'Salini',
-  'Anushree'
+  'Anushree',
+  'Nithya',
+  'Deepika'
 ];
